@@ -1,7 +1,7 @@
 
 This repository demonstrates how to use IBM Data Science Experience Models feature to predict the probability of heart stroke, given the patient data
 
-Step 1: Login to your DSX account and click on Get Started, choose New Project
+Step 1: Login to your [DSX account](https://dataplatform.ibm.com/) and click on Get Started, choose New Project
 
 ![alt text](Images/image1.png)
  
